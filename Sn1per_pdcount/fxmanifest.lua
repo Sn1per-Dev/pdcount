@@ -25,10 +25,10 @@ shared_script 'config.lua'
 
 -- Server/Client Logic
 server_script 'server.lua'
-client_script 'client.lua'
 
 -- Required Dependencies
 dependencies {
     'es_extended',
     'chat'
 }
+
